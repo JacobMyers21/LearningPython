@@ -1,1 +1,17 @@
-print("the pick of destiny\n the starting scene to skyrim\n spongebob movie\n How I met your Mother\n spiderwick\n WW2 in color")
+adjective = ""
+adjective2 = ""
+adjective3 = ""
+adjective4 = ""
+noun = ""
+noun2 = ""
+noun3 = ""
+noun4 = ""
+verb = ""
+verb2 = ""
+verb3 = ""
+verb4 = ""
+number = ""
+number2 = ""
+number3 = ""
+number4 = ""
+print ("Two years ago the" + adjective + noun + "went tumbling through the" + adjective2 + "town of Eumblesvill. The" + noun + "hit" + number + "houses on its way through the town." + number2 + "people saw the" + noun + "crash straight into the" + noun2 + "")
