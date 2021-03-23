@@ -1,16 +1,4 @@
-adjective = input("type a adjective\n")
-adjective2 = input("type a adjective\n")
-adjective3 = input("type a adjective\n")
-adjective4pasttense = input("type a past tense adjective\n")
-noun = input("type a noun\n")
-noun2 = input("type a noun\n")
-noun3person = input("type a propper noun\n")
-noun4 = input("type a noun\n")
-verb = input("type a verb\n")
-verb2 = input("type a verb\n")
-verb3 = input("type a verb\n")
-number = input("type a number\n")
-number2 = input("type a number\n")
-
-print ("Two years ago the " + adjective + " " + noun + "went tumbling through the" + adjective2 + "town of Eumblesvill. The " + noun + " hit " + number + " houses on its way through the town. " + number2 + " people saw the " + noun + " crash straight into the " + adjective3 + " " + noun2 + " before tumbling into the town hall." )
-print ("The mayor, " + noun3person + " was " + verb + "ing " + adjective4pasttense + " when he heard about the " + noun + " he nearly " + verb2 + "ed out of his" + noun4 + ". In a desperate attempt to save the city, " + noun3person + " " + verb3 + "ed the " + noun + " to a safe stop.")
+def wordSmash():
+    print("Hello World!")
+    
+wordSmash()
